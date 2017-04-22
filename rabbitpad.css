@@ -1,0 +1,25 @@
+html, body {
+  margin: 0;
+}
+
+body {
+  color: #293c4b;
+  font-family: "Open Sans", sans-serif;
+}
+
+.paper {
+  margin: 0 auto;
+  max-width: 8.5in;
+}
+
+header.masthead {
+  background-color: #60b5cc;
+  color: #fff;
+  font-size: 26px;
+  padding: 8px 0;
+}
+
+textarea {
+  font-family: "Open Sans", sans-serif;
+  width: 100%;
+}
